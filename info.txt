@@ -1,2 +1,0 @@
-site super user u cphillips1982 pw lynx1982
-git repo name - clint phillips 
